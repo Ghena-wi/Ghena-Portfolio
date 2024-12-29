@@ -90,7 +90,7 @@
                 <div class="col-12 col-lg-6 col-xl-6 offset-xl-1" style="margin: 5px 0px;" id="Bigtitle">
                     <h1 style="font-size: 60px;font-family: Cairo, sans-serif;margin: 11px;color:white;" id="Bigtitle" >Fun Size English</h1>
                     <h1 class="text-center masthead-heading mb-0" style="font-family: 'Cairo';font-weight: 300!important;font-size: 26px;color: rgb(255,255,255);margin: 11px;">&nbsp;Learn English with us online  </h1>
-                    <h2 class="text-center masthead-subheading mb-0" style="font-family: 'Cairo';font-weight: 300!important;margin: 11px;margin-top: 15px;font-size: 26px;color: #ffffff;">Register now to get a special opportunity</h2><a class="btn btn-light active text-white shadow-lg" role="button" href="plansen.php" style="font-size: 20px;font-weight: 100;background-color: rgb(255,198,30);font-family: 'Cairo';padding: 15px 50px;margin-top: 25px;">Registration</a></div>
+                    <h2 class="text-center masthead-subheading mb-0" style="font-family: 'Cairo';font-weight: 300!important;margin: 11px;margin-top: 15px;font-size: 26px;color: #ffffff;">Register now to get a special opportunity</h2><a class="btn btn-light active text-white shadow-lg" role="button" style="font-size: 20px;font-weight: 100;background-color: rgb(255,198,30);font-family: 'Cairo';padding: 15px 50px;margin-top: 25px;">Registration</a></div>
             </div>
         </div>
     </div>
